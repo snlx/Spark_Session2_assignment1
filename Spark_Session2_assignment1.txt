@@ -1,0 +1,15 @@
+1. What is in-memory processing in Spark?
+c) Maximum effective utilization of RAM during the processing
+
+2. What are the features of Apache Spark?
+e) All the above
+
+3. Apache Hadoop is more active project than Apache Spark in open source community in the
+last year.
+b) false
+
+4. Driver program will be launched in every node of the worker.
+b) false
+
+5. Spark only supports Stream processing.
+b. No
